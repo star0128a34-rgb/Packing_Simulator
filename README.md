@@ -1,6 +1,6 @@
 # Packing_Simulator
 
-py3dbp와 plotly를 활용해 패킹 시뮬레이터를 구현했습니다.
+py3dbp와 plotly 라이브러리를 활용한 패킹 툴을 구현했습니다.
 
 # 시연 영상
 
