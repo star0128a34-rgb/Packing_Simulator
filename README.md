@@ -6,6 +6,8 @@ py3dbp와 plotly 라이브러리를 활용한 패킹 툴을 구현했습니다.
 
 [streamlit-app-2026-02-20-14-23-07.webm](https://github.com/user-attachments/assets/ac59f853-1775-4b73-8554-4feb0b0bcfaa)
 
+(https://github.com/user-attachments/assets/ac59f853-1775-4b73-8554-4feb0b0bcfaa)
+
 # 사용 방법
 
 아래 링크에서 패킹 시뮬레이션을 사용할 수 있습니다.
